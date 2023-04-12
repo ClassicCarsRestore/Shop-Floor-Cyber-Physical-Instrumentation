@@ -1,0 +1,81 @@
+Nginx Web App Frontend
+
+../nginx/..../default
+server {
+        listen 8081 default_server;
+        listen [::]:8081 default_server;
+ 	root /tmp/build;
+        index index.html index.htm;
+        server_name 194.210.120.104;
+        location / {
+                try_files $uri /index.html =404;
+        }
+}
+
+sudo nginx -t
+sudo systemctl restart nginx
+
+--------------------------------------------------
+Web App Backend
+
+---
+[Unit]
+Description=Web App Api
+After=multi-user.target
+
+[Service]
+ExecStart=/tmp/WebAppBackend/venv/bin/python3 /tmp/WebAppBackend/database_api.py
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
+---
+criar venv e instalar packages(pip ...)
+sudo nano /lib/systemd/system/webapp.service
+sudo systemctl restart webapp (start/stop)
+
+-----------------------------------------------------------
+Process Identification
+
+---
+[Unit]
+Description=Process Identification Algorithm
+After=multi-user.target
+
+[Service]
+ExecStart=/tmp/ProcessIdentification/venv/bin/python3 /tmp/ProcessIdentification/processIdentification.py
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
+
+---
+criar venv e instalar packages(pip ...)
+sudo nano /lib/systemd/system/processIdentification.service
+sudo systemctl enable processIdentification.service
+sudo systemctl restart processIdentification (start/stop)
+
+--------------------------------------------------
+sudo nano /lib/systemd/system/minBlastIdent.service
+sudo systemctl restart minBlastIdent
+
+--------------------------------------------------
+sudo nano /lib/systemd/system/paintLeftIdent.service
+sudo systemctl restart paintLeftIdent
+--------------------------------------------------
+sudo nano /lib/systemd/system/paintRightIdent.service
+sudo systemctl start paintRightIdent.service
+
+--------------------------------------------------
+
+
+Background Scripts
+
+mineralBlast_InfluxDb.py (mineral blast detection)
+beacons_to_ML_InfluxDb.py     (location detection)
+
+nohup python3 beacons_to_ML_InfluxDb.py &>/dev/null & (run in background withou stopping when terminal closes)
+
+ps aux | more (check background running scripts)
+
+
