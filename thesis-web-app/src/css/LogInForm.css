@@ -1,0 +1,59 @@
+.log-in-box {
+    background-color: #7c7a7a;
+    width: 25%;
+    margin: 150px auto;
+    border-radius: 6px;
+    text-align: center;
+    flex: border-box;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.log-in-box-create {
+    background-color: #7c7a7a;
+    width: 85%;
+    margin: 150px auto;
+    border-radius: 6px;
+    text-align: center;
+    flex: border-box;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.log-in-text {
+    color: #24252A;
+    margin: 25px;
+}
+
+.log-in-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-box {
+    margin: 25px;
+    padding: 10px;
+    border: none;
+    border-bottom: #8d8d9d solid;
+    font-size: 16px;
+}
+
+.text-box:focus {
+    outline: none;
+}
+
+.log-in-button {
+    width: auto;
+    margin: 25px auto 25px;
+}
+
+.link {
+    color: rgba(0, 136, 169, 1);
+    font-weight: bold;
+    width: fit-content;
+    font-family: sans-serif;
+}
+
+.link:hover {
+    color: rgb(0, 23, 169);
+}
