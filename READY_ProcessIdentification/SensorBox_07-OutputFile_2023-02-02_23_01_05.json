@@ -1,0 +1,2 @@
+[{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-02T09:35:49Z", "EndTimestamp": "2023-02-02T10:15:51Z"},
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Curing", "StartTimestamp": "2023-02-02T10:15:53Z", "EndTimestamp": "2023-02-02T10:54:10Z"}]

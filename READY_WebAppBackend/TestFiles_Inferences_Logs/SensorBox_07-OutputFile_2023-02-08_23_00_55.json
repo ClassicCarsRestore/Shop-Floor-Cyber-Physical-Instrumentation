@@ -1,0 +1,3 @@
+[{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "P13", "Zone": "Bodywork Zone 1", "Activity": "Bodywork Activity", "StartTimestamp": "2023-02-08T09:06:18Z", "EndTimestamp": "2023-02-08T09:08:37Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-08T09:13:41Z", "EndTimestamp": "2023-02-08T11:14:09Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Curing", "StartTimestamp": "2023-02-08T11:14:12Z", "EndTimestamp": "2023-02-08T11:25:42Z"}]

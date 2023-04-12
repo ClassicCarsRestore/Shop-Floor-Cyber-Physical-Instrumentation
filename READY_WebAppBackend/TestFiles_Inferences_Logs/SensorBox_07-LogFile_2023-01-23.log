@@ -1,0 +1,1330 @@
+2023-01-23 15:29:11,267:init_v2:INFO:Box script initiated.
+2023-01-23 15:29:12,364:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:29:12,889:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:29:13,930:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:29:14,968:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:29:16,013:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:29:17,037:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007650242009109616
+2023-01-23 15:29:17,049:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:10,909:init_v2:INFO:Box script initiated.
+2023-01-23 15:30:11,983:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:12,027:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:30:15,085:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:16,116:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:16,675:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006421932068777856
+2023-01-23 15:30:17,140:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:18,190:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:19,234:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:30:20,117:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:31:32,320:init_v2:INFO:Box script initiated.
+2023-01-23 15:31:32,721:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:33,438:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:31:33,758:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:35,825:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:36,865:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:37,909:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:38,163:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0068279060450238275
+2023-01-23 15:31:38,607:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:31:38,947:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:39,986:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:41,024:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:42,067:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:43,117:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:43,259:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006329689186603529
+2023-01-23 15:31:43,586:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:31:44,146:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:45,184:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:46,226:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:47,262:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:48,287:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007433472935791751
+2023-01-23 15:31:48,292:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:50,367:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:50,670:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:31:51,410:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:52,456:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:53,502:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:31:54,535:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:15,640:init_v2:INFO:Box script initiated.
+2023-01-23 15:33:16,453:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:17,500:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:18,531:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:18,813:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:33:19,557:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:20,589:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:21,637:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:22,676:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:23,487:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007060770543713123
+2023-01-23 15:33:23,709:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:23,729:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:33:24,759:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:25,801:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:26,837:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:28,315:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006358867569220945
+2023-01-23 15:33:28,704:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:33:28,903:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:29,948:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:30,984:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:32,009:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:33,050:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:33,400:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0076252117293675176
+2023-01-23 15:33:33,868:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:33:35,129:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:36,167:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:53,098:init_v2:INFO:Box script initiated.
+2023-01-23 15:33:53,774:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:54,208:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:33:55,851:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:57,929:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:58,917:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005469796336799596
+2023-01-23 15:33:58,969:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:33:59,313:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:34:00,006:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:01,029:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:02,065:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:03,101:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:03,979:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007075843673357449
+2023-01-23 15:34:04,140:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:04,805:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:34:05,181:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:06,218:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:34:07,241:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:47,509:init_v2:INFO:Box script initiated.
+2023-01-23 15:37:48,026:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:48,704:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:37:49,058:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:50,106:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:51,141:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:52,180:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:53,317:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007008494661070488
+2023-01-23 15:37:53,611:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:37:54,267:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:55,310:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:57,383:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:58,259:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006476798071426339
+2023-01-23 15:37:58,417:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:37:59,001:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:37:59,454:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:38:00,494:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:39:55,202:init_v2:INFO:Box script initiated.
+2023-01-23 15:39:56,320:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:39:58,579:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:39:59,620:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:00,656:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:00,949:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007115041106168258
+2023-01-23 15:40:01,182:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:40:01,694:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:02,725:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:03,762:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:04,810:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:05,779:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.00643805746690892
+2023-01-23 15:40:05,853:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:06,233:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:40:06,869:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:07,910:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:08,941:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:09,979:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:10,975:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006357067903032197
+2023-01-23 15:40:11,618:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:40:12,056:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:13,088:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:14,124:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:15,159:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:16,197:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:16,220:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006980684690405185
+2023-01-23 15:40:17,225:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:18,255:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:19,290:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:19,941:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:40:20,323:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:40:21,357:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:23,446:init_v2:INFO:Box script initiated.
+2023-01-23 15:52:23,966:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:24,570:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:25,012:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:26,042:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:27,074:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:28,114:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:29,141:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:29,272:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.007530522062350975
+2023-01-23 15:52:29,498:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:30,171:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:31,201:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:34,213:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008718326563561446
+2023-01-23 15:52:34,302:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:34,558:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:35,348:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:37,391:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:38,432:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:39,245:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008769957408050399
+2023-01-23 15:52:39,471:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:39,561:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:40,496:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:41,537:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:42,565:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:43,611:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:44,280:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008200292723707404
+2023-01-23 15:52:44,633:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:44,650:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:45,686:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:46,727:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:48,789:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:49,289:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008479538719653137
+2023-01-23 15:52:49,470:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:49,816:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:50,848:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:51,880:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:52,921:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:53,964:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:54,122:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008955862456513605
+2023-01-23 15:52:54,597:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:52:57,086:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:58,122:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:52:59,229:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008431918340712254
+2023-01-23 15:53:00,173:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:01,411:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:02,240:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:03,276:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:04,319:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:05,367:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:06,031:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.033934081280203685
+2023-01-23 15:53:07,057:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:07,430:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:08,476:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:10,541:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:11,770:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 17.821104131007207
+2023-01-23 15:53:12,412:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:12,618:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:14,683:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:15,733:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:16,767:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:16,898:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 2.275957200481571e-15
+2023-01-23 15:53:17,453:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:17,803:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:18,842:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:19,874:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:20,906:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:21,946:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:22,081:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 14.795636215089704
+2023-01-23 15:53:22,624:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:22,974:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:24,012:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:25,057:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:26,093:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:27,128:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:27,290:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:27,578:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:28,160:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:29,189:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:30,229:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:31,269:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:32,175:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:32,299:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:33,147:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:33,337:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:34,370:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:37,816:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:38,173:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:38,517:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:39,549:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:40,578:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:41,618:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:42,658:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:42,848:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:43,526:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:43,698:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:44,738:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:45,773:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:46,811:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:47,843:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:48,175:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:48,733:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:48,882:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:50,962:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:51,987:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:53,029:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:53,442:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:53,913:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:54,061:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:55,097:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:57,174:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:58,206:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:53:58,617:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:53:58,942:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:53:59,243:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:00,277:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:01,309:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:03,373:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:03,633:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:04,217:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:04,410:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:05,441:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:06,477:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:07,506:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:08,544:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:08,871:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:09,432:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:09,591:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:10,622:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:11,649:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:12,693:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:13,726:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:14,078:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:14,261:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:14,752:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:16,823:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:17,861:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:18,904:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:19,652:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:19,942:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:20,981:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:23,064:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:24,098:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:24,224:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:24,664:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:25,133:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:26,172:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:27,200:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:28,230:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:29,300:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:29,341:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:30,140:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:30,305:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:31,354:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:32,402:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:33,447:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:34,486:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:34,741:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:35,359:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:35,528:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:36,556:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:38,629:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:39,673:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:40,067:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:40,709:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:40,814:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:41,747:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:42,773:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:44,847:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:45,451:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:45,882:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:46,141:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:46,924:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:47,953:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:48,993:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:50,031:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:50,882:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:51,067:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:51,106:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:52,110:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:53,138:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:55,217:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:55,818:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:54:56,061:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:54:56,243:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:57,276:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:58,325:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:54:59,363:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:00,390:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:00,785:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:01,306:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:01,442:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:03,518:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:05,943:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:06,639:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:06,907:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:07,668:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:08,703:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:09,747:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:10,788:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:11,505:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:11,760:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:11,824:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:12,859:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:13,899:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:14,943:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:15,979:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:16,508:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:17,015:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:17,935:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:18,056:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:20,115:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:21,162:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:22,194:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:22,632:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:23,271:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:24,270:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:25,312:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:26,356:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:27,401:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:27,961:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:28,449:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:28,790:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:29,485:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:30,533:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:31,573:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:33,426:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 15:55:33,659:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:34,333:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 15:55:34,701:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 15:55:36,783:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:02:00,474:init_v2:INFO:Box script initiated.
+2023-01-23 16:02:01,577:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:02:06,262:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:02:06,483:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:17:56,208:init_v2:INFO:Box script initiated.
+2023-01-23 16:17:56,875:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:17:57,911:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:17:57,958:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:17:58,954:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:17:59,997:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:02,609:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:03,084:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:03,108:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:04,131:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:05,151:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:06,186:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:07,219:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:07,721:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:07,890:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:08,260:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:09,304:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:11,367:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:12,405:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:12,595:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:12,834:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:13,434:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:14,462:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:15,505:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:16,551:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:17,540:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:17,577:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:17,872:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:18,612:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:19,638:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:20,677:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:21,705:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:22,528:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:22,732:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:22,752:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:23,770:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:26,880:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:27,449:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:27,811:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:27,921:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:28,956:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:29,998:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:31,038:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:32,074:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:32,592:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:32,896:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:34,151:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:35,195:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:36,216:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:37,254:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:37,605:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:37,784:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:38,291:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:39,320:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:40,362:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:41,396:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:42,423:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:42,451:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:42,617:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:43,467:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:44,507:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:45,539:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:46,568:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:47,442:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:47,605:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:47,630:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:48,653:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:49,690:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:50,726:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:51,771:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:52,385:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:52,615:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:52,807:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:53,836:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:54,864:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:56,947:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:57,210:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:18:57,994:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:18:58,022:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:18:59,039:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:01,091:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:02,126:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:02,680:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:19:03,222:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:19:04,200:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:05,237:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:07,316:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:07,893:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:19:08,100:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:19:08,356:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:09,393:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:11,487:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:12,749:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:19:13,214:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:19:13,564:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:14,596:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:16,666:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:17,710:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:17,873:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:19:18,103:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:19:19,781:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:20,827:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:21,875:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:22,756:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:19:22,919:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:22,935:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:19:23,956:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:24,985:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:27,066:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:27,598:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:19:28,072:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:19:29,141:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:30,171:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:19:31,219:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:20:57,546:init_v2:INFO:Box script initiated.
+2023-01-23 16:20:58,320:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:20:58,687:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:08,772:init_v2:INFO:Box script initiated.
+2023-01-23 16:26:09,888:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:09,929:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:10,973:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:12,011:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:13,052:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:14,096:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:14,645:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:26:15,053:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:15,129:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:16,156:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:19,252:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:19,787:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:26:20,079:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:20,298:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:21,338:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:22,382:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:23,411:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:24,878:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:26:25,422:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:25,501:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:26,544:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:27,588:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:29,660:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:30,140:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:26:30,487:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:30,693:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:32,760:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:33,788:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:34,826:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:35,149:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:26:35,647:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:36,907:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:37,934:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:38,975:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:40,007:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:40,316:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:26:40,573:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:26:41,048:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:26:42,077:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 16:33:18,615:init_v2:INFO:Box script initiated.
+2023-01-23 16:33:19,742:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:33:24,529:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:33:24,931:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:33:29,625:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:33:29,809:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 16:33:34,498:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 16:33:34,753:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:33:39,894:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:33:46,166:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:33:52,446:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:33:57,903:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:03,464:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:08,704:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:13,967:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:19,489:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:24,683:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:29,814:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:35,053:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:40,173:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:45,298:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:50,660:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:34:56,185:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:01,545:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:07,002:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:12,440:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:17,740:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:22,873:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:27,993:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:33,139:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:38,509:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:43,880:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:49,148:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:54,594:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:35:59,769:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:04,960:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:10,089:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:15,344:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:20,516:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:25,710:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:31,252:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:36,619:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:41,864:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:47,216:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:52,474:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:36:58,061:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:03,299:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:08,651:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:13,977:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:19,373:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:24,721:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:29,953:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:35,360:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:40,703:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:45,903:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:51,191:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:37:57,052:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:02,606:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:08,232:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:13,786:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:19,130:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:24,462:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:29,852:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:35,235:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:40,415:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:45,599:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:50,741:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:38:56,022:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:01,580:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:06,810:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:12,060:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:17,531:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:22,859:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:28,075:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:33,363:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:38,490:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:43,620:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:48,873:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:54,001:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:39:59,154:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:04,454:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:09,610:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:15,233:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:20,454:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:25,838:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:31,404:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:36,762:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:41,953:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:47,284:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:52,461:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:40:57,951:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:03,490:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:08,754:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:14,131:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:19,310:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:24,444:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:29,641:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:34,794:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:39,989:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:45,161:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:50,286:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:41:55,449:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:00,763:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:06,085:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:11,371:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:16,497:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:21,901:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:27,105:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:32,505:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:37,931:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:43,444:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:48,670:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:53,801:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:42:59,103:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:04,395:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:09,764:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:15,071:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:20,222:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:25,623:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:30,953:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:36,691:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:42,087:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:47,249:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:52,363:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:43:57,617:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:03,384:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:08,624:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:13,818:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:18,962:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:24,139:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:29,313:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:34,475:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:39,605:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:44,764:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:49,873:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:44:55,132:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:00,605:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:05,826:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:11,288:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:16,423:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:21,624:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:26,956:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:32,236:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:37,388:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:42,572:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:47,772:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:53,183:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:45:58,623:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:03,795:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:09,083:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:14,246:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:19,383:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:24,742:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:29,873:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:35,067:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:40,256:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:45,406:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:50,504:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:46:55,733:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:01,965:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:07,419:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:12,618:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:18,178:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:23,365:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:28,843:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:34,004:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:39,194:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:44,585:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:49,716:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:47:54,863:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:00,170:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:05,516:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:10,777:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:16,155:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:21,384:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:26,627:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:31,845:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:37,106:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:42,259:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:47,384:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:52,560:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:48:57,998:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:03,412:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:08,745:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:13,930:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:19,133:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:24,924:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:30,399:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:36,005:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:41,405:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:46,790:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:52,229:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:49:57,647:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:02,882:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:08,210:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:13,715:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:18,911:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:24,287:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:29,692:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:34,879:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:40,247:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:45,710:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:51,026:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:50:56,491:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:01,924:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:07,286:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:12,769:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:18,131:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:23,466:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:28,642:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:34,507:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:39,698:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:45,069:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:50,440:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:51:57,022:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:02,425:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:07,758:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:13,167:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:18,321:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:23,510:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:28,662:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:33,957:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:39,342:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:44,503:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:49,639:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:52:55,240:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:00,351:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:06,021:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:11,567:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:16,698:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:21,802:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:26,952:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:32,248:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:37,570:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:42,938:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:48,128:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:53,298:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:53:58,461:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:03,652:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:08,951:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:14,281:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:19,421:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:24,582:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:29,729:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:35,957:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:41,162:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:46,449:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:51,709:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:54:57,049:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:02,729:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:07,964:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:13,144:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:18,384:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:23,569:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:28,729:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:33,979:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:39,343:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:44,541:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:49,839:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:55:55,695:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:00,929:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:06,074:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:11,522:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:16,824:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:21,942:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:27,061:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:32,182:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:37,308:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:42,544:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:47,920:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:53,213:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:56:58,401:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:03,803:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:08,961:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:14,088:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:19,280:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:24,626:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:29,792:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:34,985:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:40,305:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:45,473:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:50,642:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:57:56,198:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:01,794:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:07,063:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:12,521:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:17,762:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:22,893:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:28,024:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:33,322:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:38,451:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:43,624:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:48,762:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:54,005:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:58:59,352:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:04,712:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:10,096:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:15,293:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:20,424:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:25,673:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:30,943:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:36,378:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:41,548:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:46,723:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:52,067:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 16:59:57,245:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:02,666:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:08,046:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:13,488:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:18,704:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:24,013:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:29,233:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:34,393:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:39,594:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:44,762:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:50,061:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:00:55,275:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:00,510:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:05,707:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:10,879:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:16,037:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:21,198:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:26,525:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:31,789:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:36,944:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:42,075:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:47,395:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:52,567:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:01:57,917:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:03,474:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:08,768:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:13,935:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:19,095:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:24,266:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:29,415:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:34,621:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:39,759:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:44,945:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:50,307:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:02:55,465:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:00,779:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:06,049:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:11,537:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:16,895:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:22,066:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:27,468:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:32,771:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:37,987:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:43,308:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:48,489:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:53,780:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:03:58,908:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:04,251:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:09,428:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:14,562:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:19,707:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:25,048:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:30,192:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:35,591:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:40,902:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:46,285:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:51,426:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:04:56,847:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:05:03,759:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 17:05:09,262:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 18:25:44,121:init_v2:INFO:Box script initiated.
+2023-01-23 18:25:45,210:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 18:25:50,390:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 18:25:55,781:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 18:26:01,007:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-23 18:26:06,439:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:11,206:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:26:11,390:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:16,033:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:26:16,385:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:21,023:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:26:21,143:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:24,196:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:25,243:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:25,827:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:26:25,901:webAppCommunication:WARNING:Sending beacon alarm message. Content: {}
+2023-01-23 18:26:25,942:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:26,275:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:27,313:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:28,362:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:29,391:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:30,442:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:30,618:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:26:30,792:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:31,472:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:32,511:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:33,538:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:26:35,408:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:26:35,525:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:26:35,613:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:49:56,154:init_v2:INFO:Box script initiated.
+2023-01-23 18:49:57,069:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:49:57,246:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:49:58,102:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:49:59,143:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:00,186:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:01,222:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:01,964:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:50:02,418:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:50:03,298:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:04,330:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:18,785:init_v2:INFO:Box script initiated.
+2023-01-23 18:50:19,895:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:50:19,940:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:20,968:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:22,009:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:23,042:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:24,088:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:24,586:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:50:24,830:webAppCommunication:WARNING:Could not send low battery beacon alarm: Failed to parse: http://127:0.0.1:9000/alarms/beaconsbattery
+2023-01-23 18:50:24,831:webAppCommunication:WARNING:Sending beacon alarm message. Content: {}
+2023-01-23 18:50:24,874:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:50:26,149:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:27,189:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:50:28,228:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:17,711:init_v2:INFO:Box script initiated.
+2023-01-23 18:52:18,801:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:20,094:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:21,121:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:22,163:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:23,206:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:23,587:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:52:23,662:webAppCommunication:WARNING:Could not send low battery beacon alarm: Failed to parse: http://127:0.0.1:9000/alarms/beaconsbattery
+2023-01-23 18:52:23,663:webAppCommunication:WARNING:Sending beacon alarm message. Content: {}
+2023-01-23 18:52:23,701:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:25,273:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:26,318:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:27,348:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:28,359:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:52:28,388:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:28,748:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:29,414:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:30,458:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:31,501:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:32,533:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:33,427:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:52:33,580:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:33,669:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:34,628:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:35,656:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:36,706:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:37,739:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:38,312:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:52:38,494:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:38,789:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:39,813:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:40,839:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:42,920:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:43,128:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:52:43,513:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:43,935:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:44,972:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:46,019:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:47,049:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:48,083:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:52:48,175:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:52:48,347:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:52:50,144:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:53:58,850:init_v2:INFO:Box script initiated.
+2023-01-23 18:53:59,937:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:54:00,681:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:01,728:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:02,753:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:03,787:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:04,665:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:54:04,830:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:05,169:webAppCommunication:WARNING:Could not send low battery beacon alarm: HTTPConnectionPool(host='127.0.0.1', port=9000): Max retries exceeded with url: /alarms/beaconsbattery (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xb3cb6330>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2023-01-23 18:54:05,170:webAppCommunication:WARNING:Sending beacon alarm message. Content: {}
+2023-01-23 18:54:05,225:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:54:05,858:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:06,901:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:08,992:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:09,929:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:54:10,034:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:54:10,176:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:54:11,063:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:20,051:init_v2:INFO:Box script initiated.
+2023-01-23 18:55:20,560:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:21,156:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:55:21,587:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:24,692:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:25,747:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:25,878:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:55:26,061:webAppCommunication:WARNING:Sending beacon alarm message. Content: {}
+2023-01-23 18:55:26,109:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:55:26,771:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:28,844:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:29,885:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:30,693:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:55:30,918:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:55:31,306:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:57:29,309:init_v2:INFO:Box script initiated.
+2023-01-23 18:57:30,022:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:57:30,399:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:57:31,060:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:57:32,094:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:57:33,124:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:57:34,162:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:57:34,971:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 18:57:35,364:webAppCommunication:WARNING:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 18:57:35,406:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 18:57:36,214:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 18:57:37,244:estimote.estimote_data_extraction:INFO:Found bluetooth beacon with low battery. Beacon short id: 917cd714e1103994.
+2023-01-23 19:01:24,478:init_v2:INFO:Box script initiated.
+2023-01-23 19:01:25,589:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:01:30,323:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:01:30,436:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:01:30,477:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:01:35,150:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:01:35,752:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:03:02,822:init_v2:INFO:Box script initiated.
+2023-01-23 19:03:03,915:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:03:08,626:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:03:09,060:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:03:09,111:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:06:32,219:init_v2:INFO:Box script initiated.
+2023-01-23 19:06:33,328:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:06:38,066:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:06:38,708:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:06:38,755:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:06:43,391:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:06:43,539:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:08:00,774:init_v2:INFO:Box script initiated.
+2023-01-23 19:08:01,889:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:08:06,638:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:08:07,026:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:08:07,073:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:10:26,766:init_v2:INFO:Box script initiated.
+2023-01-23 19:10:27,851:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:10:32,530:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:10:32,753:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:10:49,090:init_v2:INFO:Box script initiated.
+2023-01-23 19:10:50,190:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:10:54,853:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:10:55,007:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:10:55,048:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:11:06,236:init_v2:INFO:Box script initiated.
+2023-01-23 19:11:07,336:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:11:12,125:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:11:15,751:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:14:11,635:init_v2:INFO:Box script initiated.
+2023-01-23 19:14:12,860:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:14:17,691:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:14:17,880:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:15:04,938:init_v2:INFO:Box script initiated.
+2023-01-23 19:15:06,028:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:15:10,794:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:15:11,178:webAppCommunication:WARNING:Could not send low battery beacon alarm: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2023-01-23 19:15:11,301:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:15:15,971:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:15:16,116:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:15:47,803:init_v2:INFO:Box script initiated.
+2023-01-23 19:15:48,899:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:15:53,488:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:15:53,870:webAppCommunication:WARNING:Could not send low battery beacon alarm: 404
+2023-01-23 19:15:53,915:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:24,884:init_v2:INFO:Box script initiated.
+2023-01-23 19:18:25,988:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:30,676:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:18:31,678:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:18:31,730:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:36,350:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:18:36,572:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:41,316:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:18:41,608:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:46,282:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:18:46,764:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:51,409:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:18:51,589:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:18:56,267:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:18:56,441:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:01,070:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:01,432:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:06,132:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:06,315:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:11,036:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:11,315:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:16,061:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:16,281:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:20,461:init_v2:INFO:Box script initiated.
+2023-01-23 19:19:21,550:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:26,278:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:27,103:webAppCommunication:INFO:Sending beacon alarm message. Content: {'917cd714e1103994': {'box': 'SensorBox_07', 'battery': 63}}
+2023-01-23 19:19:27,145:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:31,799:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:32,426:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:37,165:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:37,448:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:42,101:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:42,302:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:46,953:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:47,328:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:52,046:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:52,274:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:19:56,934:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:19:57,118:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:01,754:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:02,181:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:06,780:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:07,002:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:11,631:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:12,172:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:16,775:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:16,949:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:35,491:init_v2:INFO:Box script initiated.
+2023-01-23 19:20:36,588:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:41,325:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:41,534:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:46,227:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:46,356:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:51,086:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:51,225:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:20:55,841:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:20:56,197:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:21:00,940:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:21:01,397:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:21:06,106:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:21:06,398:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:21:11,143:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:21:11,436:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:21:52,865:init_v2:INFO:Box script initiated.
+2023-01-23 19:21:53,970:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:21:58,668:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:21:59,028:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:03,729:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:04,028:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:08,809:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:09,188:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:13,901:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:14,246:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:18,913:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:19,296:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:23,966:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:24,136:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:28,813:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:29,007:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:22:33,644:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:22:34,296:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:33:47,181:init_v2:INFO:Box script initiated.
+2023-01-23 19:33:50,093:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:33:54,824:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:33:55,167:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:33:59,717:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:00,005:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:34:04,716:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:04,844:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:34:09,502:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:09,727:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:34:14,350:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:14,499:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:34:19,100:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:19,191:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:34:23,820:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:23,946:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:34:28,504:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:34:28,648:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:25,286:init_v2:INFO:Box script initiated.
+2023-01-23 19:36:26,386:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:31,127:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:36:31,363:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:36,058:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:36:36,842:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:41,617:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:36:41,786:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:46,552:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:36:46,821:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:51,493:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:36:51,856:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:36:56,485:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:36:57,073:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:37:01,793:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:37:02,207:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:37:06,825:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:37:06,986:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:37:11,811:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:37:12,324:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:37:17,183:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:37:17,638:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:18,049:init_v2:INFO:Box script initiated.
+2023-01-23 19:38:19,141:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:23,878:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:24,184:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:28,811:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:28,941:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:33,746:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:34,136:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:38,935:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:39,136:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:43,827:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:43,942:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:48,703:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:49,160:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:53,892:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:54,027:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:38:58,753:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:38:58,914:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:39:03,605:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:39:04,507:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:39:09,236:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:39:09,416:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:39:14,189:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:39:14,559:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:40:32,208:init_v2:INFO:Box script initiated.
+2023-01-23 19:40:33,296:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:40:38,027:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:40:38,319:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:40:43,146:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:40:43,415:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:40:48,144:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:40:48,391:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:40:52,997:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:40:53,092:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:40:57,864:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:40:58,230:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:02,999:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:03,467:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:08,198:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:08,673:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:13,303:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:13,558:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:18,256:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:18,413:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:23,070:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:23,323:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:28,073:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:28,433:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:33,129:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:33,227:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:37,893:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:38,155:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:42,896:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:43,022:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:47,722:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:47,949:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:52,623:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:52,771:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:41:57,374:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:41:57,506:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:02,171:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:02,504:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:07,255:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:07,735:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:12,453:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:12,997:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:17,717:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:18,129:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:22,812:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:22,959:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:27,702:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:27,914:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:32,647:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:32,746:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:37,551:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:37,862:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:42,577:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:42,897:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:47,560:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:47,879:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:52,539:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:52,816:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:42:57,502:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:42:57,623:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:02,353:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:02,464:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:07,193:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:07,314:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:11,986:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:13,171:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:18,040:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:18,195:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:22,897:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:23,029:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:27,734:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:27,830:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:32,555:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:32,941:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:37,654:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:37,745:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:42,470:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:42,653:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:47,338:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:47,610:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:52,383:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:52,573:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:43:57,272:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:43:57,408:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:44:02,141:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:44:02,477:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.
+2023-01-23 19:44:07,218:ADXL345_highestFreq:INFO:Error on reading ADXL345 (accelerometer) sensor data.
+2023-01-23 19:44:07,536:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Citroen Saxo.

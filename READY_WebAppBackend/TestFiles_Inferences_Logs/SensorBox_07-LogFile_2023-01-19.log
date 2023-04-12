@@ -1,0 +1,104 @@
+2023-01-19 22:10:23,838:init_v2:INFO:Box script initiated.
+2023-01-19 22:10:24,954:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:10:29,653:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005674420380306399
+2023-01-19 22:10:29,889:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:10:34,520:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005273734011307129
+2023-01-19 22:10:35,799:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:10:40,514:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005942432545421584
+2023-01-19 22:10:41,037:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:15:49,536:init_v2:INFO:Box script initiated.
+2023-01-19 22:15:50,648:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:15:55,321:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005987542501683813
+2023-01-19 22:15:55,637:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:00,172:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005955372257381852
+2023-01-19 22:16:00,697:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:05,373:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006212985219464635
+2023-01-19 22:16:05,935:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:10,623:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005834447272218806
+2023-01-19 22:16:10,842:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:15,501:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0050404431854956435
+2023-01-19 22:16:16,618:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:21,205:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005219527686672069
+2023-01-19 22:16:21,411:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:26,060:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005393973187553743
+2023-01-19 22:16:26,212:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:30,847:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006104576972778785
+2023-01-19 22:16:31,407:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:36,057:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005970796851929294
+2023-01-19 22:16:36,252:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:40,843:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0054091698074258815
+2023-01-19 22:16:41,561:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:46,241:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005262131382507456
+2023-01-19 22:16:46,498:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:51,137:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005720384260312279
+2023-01-19 22:16:51,452:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:16:56,093:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005242606554550834
+2023-01-19 22:16:56,338:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:00,926:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.00545482782073318
+2023-01-19 22:17:01,520:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:06,108:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005373783881210133
+2023-01-19 22:17:06,327:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:11,008:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005761299959813503
+2023-01-19 22:17:11,241:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:15,939:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005721692692844869
+2023-01-19 22:17:16,462:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:21,176:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005506782518859758
+2023-01-19 22:17:21,530:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:26,195:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.008306205151032971
+2023-01-19 22:17:26,611:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:31,243:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0055940127577229
+2023-01-19 22:17:31,739:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:36,462:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005799591920112085
+2023-01-19 22:17:36,908:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:41,701:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0054241725590260135
+2023-01-19 22:17:41,918:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:46,566:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006140497395389116
+2023-01-19 22:17:47,435:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:52,021:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005850313952011079
+2023-01-19 22:17:53,205:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:17:57,940:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0057165596009273265
+2023-01-19 22:17:58,173:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:18:02,802:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005589321417159046
+2023-01-19 22:18:03,228:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:18:07,868:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006111289640422681
+2023-01-19 22:18:08,373:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Lancia Flaminia: GOI XVE.
+2023-01-19 22:18:12,974:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005112632860598538
+2023-01-19 22:18:13,564:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:18:18,116:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.004989348845944803
+2023-01-19 22:18:19,141:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:18:23,817:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005236428858546289
+2023-01-19 22:18:24,119:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:18:28,749:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005566274909714737
+2023-01-19 22:18:29,029:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:18:37,339:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:18:42,651:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:18:48,063:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:18:53,501:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:18:58,849:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:14,733:init_v2:INFO:Box script initiated.
+2023-01-19 22:22:15,855:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:22:20,513:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005704443202899962
+2023-01-19 22:22:21,190:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:22:25,884:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006335325448157068
+2023-01-19 22:22:26,078:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:31,274:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:36,415:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:41,836:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:47,074:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:52,256:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:22:57,492:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:23:02,656:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:24:09,850:init_v2:INFO:Box script initiated.
+2023-01-19 22:24:11,272:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:24:16,610:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:25:33,732:init_v2:INFO:Box script initiated.
+2023-01-19 22:25:35,002:init_v2:INFO:SensorBox SensorBox_07 is Off.
+2023-01-19 22:25:40,578:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:25:45,321:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005106795342526645
+2023-01-19 22:25:46,117:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:25:50,754:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.006210542399057128
+2023-01-19 22:25:51,040:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:25:55,745:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.0055359900935431335
+2023-01-19 22:25:56,046:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.
+2023-01-19 22:26:00,667:ADXL345_highestFreq:INFO:Max_magnitude_recorded: 0.005934766901925234
+2023-01-19 22:26:01,346:init_v2:INFO:SensorBox SensorBox_07 is On.| Car Assigned: Rolls Royce  Corniche Silver Shadow: DH 858 VR.

@@ -1,0 +1,10 @@
+[{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-01T10:37:15Z", "EndTimestamp": "2023-02-01T10:38:13Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "P4", "Zone": "Bodywork Zone 1", "Activity": "Bodywork Activity", "StartTimestamp": "2023-02-01T10:37:55Z", "EndTimestamp": "2023-02-01T10:39:34Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-01T10:39:36Z", "EndTimestamp": "2023-02-01T10:41:55Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "P4", "Zone": "Bodywork Zone 1", "Activity": "Bodywork Activity", "StartTimestamp": "2023-02-01T10:41:58Z", "EndTimestamp": "2023-02-01T10:44:17Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-01T10:43:59Z", "EndTimestamp": "2023-02-01T10:46:19Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "P12", "Zone": "Bodywork Zone 1", "Activity": "Bodywork Activity", "StartTimestamp": "2023-02-01T10:46:01Z", "EndTimestamp": "2023-02-01T10:46:59Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-01T10:46:41Z", "EndTimestamp": "2023-02-01T10:48:20Z"},
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "P4", "Zone": "Bodywork Zone 1", "Activity": "Bodywork Activity", "StartTimestamp": "2023-02-01T10:48:03Z", "EndTimestamp": "2023-02-01T10:49:21Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Painting", "StartTimestamp": "2023-02-01T10:48:44Z", "EndTimestamp": "2023-02-01T12:07:02Z"}, 
+{"BoxName": "SensorBox_07", "Car": "carro test", "Location": "Painting Booth 1", "Zone": "Painting Booth 1", "Activity": "Curing", "StartTimestamp": "2023-02-01T12:07:04Z", "EndTimestamp": "2023-02-01T12:35:59Z"}]
