@@ -17,3 +17,5 @@ thesis-web-app folder - has the content relative to the REACT Web Application Fr
 Raspberry Pi Code/Raspby_DataIngestion folder - has the content relative to the sensor boxes data ingestion. Code running on each raspberry pi.
 
 Raspberry Pi Code/RecordBeaconsData_Fingerprinting folder - has the code used to get the Estimote Beacons data for post build of the fingepriting.
+
+Link to Web Application walkthrough Video - https://youtu.be/KQo-7tG-i2E
