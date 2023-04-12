@@ -1,0 +1,12 @@
+[Unit]
+Description=Service to run init on boot
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 -u init_v2_location.py
+WorkingDirectory=/home/pi/Desktop/SensorBoxCloud/code
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
